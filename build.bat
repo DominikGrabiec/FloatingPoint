@@ -1,0 +1,1 @@
+cl.exe /arch:AVX /Oi /FAs trig_tests.cpp
