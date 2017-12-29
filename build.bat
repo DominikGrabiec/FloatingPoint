@@ -1,1 +1,1 @@
-cl.exe /arch:AVX /Oi /FAs trig_tests.cpp
+cl.exe /arch:AVX /O2it /FAs /EHsc trig_tests.cpp
